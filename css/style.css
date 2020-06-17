@@ -667,7 +667,7 @@ a.active {
     line-height: 1.2rem;
     color: #D33E43;
     margin-left: 10px
-	    width: 88%;
+	   
 	     
 }
 
@@ -705,13 +705,13 @@ fieldset {
 #success,
 #error {
     display: none
-	    width: 88%;
+	  
 }
 
 #success p,
 #error p {
     display: block;
-	width: 88%;
+	
 }
 
 #success p {
@@ -721,7 +721,7 @@ fieldset {
     padding: 10px;
     border: 2px solid #425BB5;
     margin-top: 10px;
-	width: 88%;
+	
 }
 
 #error p {
@@ -731,7 +731,7 @@ fieldset {
     padding: 10px;
     border: 2px solid #D33E43;
     margin-top: 10px;
-	width: 88%;
+	
 }
 
 #submit {

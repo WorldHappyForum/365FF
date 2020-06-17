@@ -634,7 +634,7 @@ a.active {
 #contact {
     padding: 100px 0;
     background: #ffffff
-	    
+	 width: 88%;   
 }
 
 #contact-form input,
@@ -642,6 +642,7 @@ a.active {
     height: 50px;
     margin-bottom: 10px;
     border-radius: 0;
+	width: 88%;
 	 
 }
 
@@ -653,6 +654,7 @@ a.active {
     font-size: 1.3rem;
     line-height: 1.3rem;
     color: #000;
+	width: 88%;
 	 
 }
 
@@ -665,6 +667,7 @@ a.active {
     line-height: 1.2rem;
     color: #D33E43;
     margin-left: 10px
+	    width: 88%;
 	     
 }
 
@@ -702,11 +705,13 @@ fieldset {
 #success,
 #error {
     display: none
+	    width: 88%;
 }
 
 #success p,
 #error p {
     display: block;
+	width: 88%;
 }
 
 #success p {
@@ -716,6 +721,7 @@ fieldset {
     padding: 10px;
     border: 2px solid #425BB5;
     margin-top: 10px;
+	width: 88%;
 }
 
 #error p {
@@ -725,6 +731,7 @@ fieldset {
     padding: 10px;
     border: 2px solid #D33E43;
     margin-top: 10px;
+	width: 88%;
 }
 
 #submit {
@@ -735,7 +742,7 @@ fieldset {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: bold;
-    width: 100%;
+    width: 88%;
 }
 
 .social {

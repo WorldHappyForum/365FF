@@ -634,6 +634,7 @@ a.active {
 #contact {
     padding: 100px 0;
     background: #f3f3f3
+	    width: 80%;
 }
 
 #contact-form input,
@@ -641,6 +642,7 @@ a.active {
     height: 50px;
     margin-bottom: 10px;
     border-radius: 0;
+	width: 80%;
 }
 
 #contact-form label {
@@ -651,6 +653,7 @@ a.active {
     font-size: 1.3rem;
     line-height: 1.3rem;
     color: #000;
+	 width: 80%;
 }
 
 #contact-form label.error {
@@ -662,6 +665,7 @@ a.active {
     line-height: 1.2rem;
     color: #D33E43;
     margin-left: 10px
+	     width: 80%;
 }
 
 #contact-form input[type="text"].error,
@@ -731,7 +735,7 @@ fieldset {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: bold;
-    width: 100%;
+    width: 80%;
 }
 
 .social {
